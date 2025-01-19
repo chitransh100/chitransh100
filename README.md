@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **CSE students are full-stack architects, bridging the front end with the back end.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
